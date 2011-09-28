@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>elblinkin.github.com/PHPUnit-CodeSniffer</name>
+  <summary>PHP CodeSniffer Standard for PHPUnit tests PEAR Channel</summary>
+  <alias>phpunit-codesniffer</alias>
+  <url>http://elblinkin.github.com/PHPUnit-CodeSniffer/</url>
+</server>
+
