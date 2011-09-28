@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://elblinkin.github.com/Pirum/">
+    <title>PEAR Channel for PHP repositories.  Powered by Pirum. Latest Releases</title>
+    <link href="http://elblinkin.github.com/Pirum/" />
+    <author>
+        <name>http://elblinkin.github.com/Pirum/</name>
+    </author>
+
+
+</feed>
