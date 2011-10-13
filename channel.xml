@@ -6,10 +6,10 @@
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">http://elblinkin.github.com/Pirum/rest/</baseurl>
-                <baseurl type="REST1.1">http://elblinkin.github.com/Pirum/rest/</baseurl>
-                <baseurl type="REST1.2">http://elblinkin.github.com/Pirum/rest/</baseurl>
-                <baseurl type="REST1.3">http://elblinkin.github.com/Pirum/rest/</baseurl>
+                <baseurl type="REST1.0">http://elblinkin.github.com/Pirum//rest/</baseurl>
+                <baseurl type="REST1.1">http://elblinkin.github.com/Pirum//rest/</baseurl>
+                <baseurl type="REST1.2">http://elblinkin.github.com/Pirum//rest/</baseurl>
+                <baseurl type="REST1.3">http://elblinkin.github.com/Pirum//rest/</baseurl>
             </rest>
         </primary>
     </servers>

@@ -7,8 +7,19 @@
     </author>
 
     <entry>
+        <title>PHPUnit_CodeSniffer 0.1.1 (beta)</title>
+        <link href="http://elblinkin.github.com/Pirum//get/PHPUnit_CodeSniffer-0.1.1.tgz" />
+        <id>PHPUnit_CodeSniffer-0.1.1</id>
+        <author>
+            <name>elblinkin</name>
+        </author>
+        <updated>2011-10-13T01:22:42-04:00</updated>
+        <content>
+            PHP CodeSniffer Standard for PHPUnit tests.
+        </content>
+    </entry>    <entry>
         <title>PHPUnit_CodeSniffer 0.1.0 (beta)</title>
-        <link href="http://elblinkin.github.com/Pirum/get/PHPUnit_CodeSniffer-0.1.0.tgz" />
+        <link href="http://elblinkin.github.com/Pirum//get/PHPUnit_CodeSniffer-0.1.0.tgz" />
         <id>PHPUnit_CodeSniffer-0.1.0</id>
         <author>
             <name>elblinkin</name>

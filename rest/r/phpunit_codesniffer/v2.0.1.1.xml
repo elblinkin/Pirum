@@ -2,7 +2,7 @@
 <r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
     <p xlink:href="/rest/p/phpunit_codesniffer">PHPUnit_CodeSniffer</p>
     <c>elblinkin.github.com/Pirum</c>
-    <v>0.1.0</v>
+    <v>0.1.1</v>
     <a>0.1.0</a>
     <mp>5.2.9</mp>
     <st>beta</st>
@@ -10,11 +10,11 @@
     <m>elblinkin</m>
     <s>PHP CodeSniffer Standard for PHPUnit tests.</s>
     <d>PHP CodeSniffer Standard for PHPUnit tests.</d>
-    <da>2011-09-28 14:17:55</da>
+    <da>2011-10-13 01:22:42</da>
     <n>
 -
  </n>
     <f>3385</f>
-    <g>http://elblinkin.github.com/Pirum//get/PHPUnit_CodeSniffer-0.1.0</g>
-    <x xlink:href="package.0.1.0.xml"/>
+    <g>http://elblinkin.github.com/Pirum//get/PHPUnit_CodeSniffer-0.1.1</g>
+    <x xlink:href="package.0.1.1.xml"/>
 </r>
