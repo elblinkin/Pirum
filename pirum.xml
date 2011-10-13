@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-  <name>elblinkin.github.com/Pirum</name>
-  <summary>PEAR Channel for PHP repositories.  Powered by Pirum.</summary>
+  <name>pear.elblinkin.info</name>
+  <summary>PEAR Channel for elblinkin.info PHP repositories.  Powered by Pirum.</summary>
   <alias>elblinkin</alias>
-  <url>http://elblinkin.github.com/Pirum/</url>
+  <url>http://pear.elblinkin.info</url>
 </server>
 

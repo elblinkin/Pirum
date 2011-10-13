@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <channel version="1.0" xmlns="http://pear.php.net/channel-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/channel-1.0 http://pear.php.net/dtd/channel-1.0.xsd">
-    <name>elblinkin.github.com/Pirum</name>
-    <summary>PEAR Channel for PHP repositories.  Powered by Pirum.</summary>
+    <name>pear.elblinkin.info</name>
+    <summary>PEAR Channel for elblinkin.info PHP repositories.  Powered by Pirum.</summary>
     <suggestedalias>elblinkin</suggestedalias>
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">http://elblinkin.github.com/Pirum//rest/</baseurl>
-                <baseurl type="REST1.1">http://elblinkin.github.com/Pirum//rest/</baseurl>
-                <baseurl type="REST1.2">http://elblinkin.github.com/Pirum//rest/</baseurl>
-                <baseurl type="REST1.3">http://elblinkin.github.com/Pirum//rest/</baseurl>
+                <baseurl type="REST1.0">http://pear.elblinkin.info/rest/</baseurl>
+                <baseurl type="REST1.1">http://pear.elblinkin.info/rest/</baseurl>
+                <baseurl type="REST1.2">http://pear.elblinkin.info/rest/</baseurl>
+                <baseurl type="REST1.3">http://pear.elblinkin.info/rest/</baseurl>
             </rest>
         </primary>
     </servers>

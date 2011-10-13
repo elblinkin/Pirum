@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://elblinkin.github.com/Pirum/">
-    <title>PEAR Channel for PHP repositories.  Powered by Pirum. Latest Releases</title>
-    <link href="http://elblinkin.github.com/Pirum/" />
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.elblinkin.info">
+    <title>PEAR Channel for elblinkin.info PHP repositories.  Powered by Pirum. Latest Releases</title>
+    <link href="http://pear.elblinkin.info" />
     <author>
-        <name>http://elblinkin.github.com/Pirum/</name>
+        <name>http://pear.elblinkin.info</name>
     </author>
 
-    <entry>
-        <title>PHPUnit_CodeSniffer 0.1.1 (beta)</title>
-        <link href="http://elblinkin.github.com/Pirum//get/PHPUnit_CodeSniffer-0.1.1.tgz" />
-        <id>PHPUnit_CodeSniffer-0.1.1</id>
-        <author>
-            <name>elblinkin</name>
-        </author>
-        <updated>2011-10-13T01:22:42-04:00</updated>
-        <content>
-            PHP CodeSniffer Standard for PHPUnit tests.
-        </content>
-    </entry>    <entry>
-        <title>PHPUnit_CodeSniffer 0.1.0 (beta)</title>
-        <link href="http://elblinkin.github.com/Pirum//get/PHPUnit_CodeSniffer-0.1.0.tgz" />
-        <id>PHPUnit_CodeSniffer-0.1.0</id>
-        <author>
-            <name>elblinkin</name>
-        </author>
-        <updated>2011-09-28T14:17:55-04:00</updated>
-        <content>
-            PHP CodeSniffer Standard for PHPUnit tests.
-        </content>
-    </entry>
+
 </feed>
