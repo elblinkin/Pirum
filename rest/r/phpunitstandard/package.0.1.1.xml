@@ -11,7 +11,7 @@
   <active>yes</active>
  </lead>
  <date>2011-10-13</date>
- <time>15:14:44</time>
+ <time>15:55:38</time>
  <version>
   <release>0.1.1</release>
   <api>0.1.1</api>
@@ -25,18 +25,18 @@
 -
  </notes>
  <contents>
-  <dir name="/PHP/CodeSniffer/Standards/">
-   <file md5sum="ef300d6c21803b99ae7a706b29580f0d" name="PHPUnitStandard/Sniffs/Testing/AllowedFunctionOverrideSniff.php" role="php" />
-   <file md5sum="6ddb379bfec6d6123c88d711f69ae9dd" name="PHPUnitStandard/Sniffs/Testing/ClassNameSniff.php" role="php" />
-   <file md5sum="df73f37dcee770516fcc55ef31cfb44b" name="PHPUnitStandard/Sniffs/Testing/ExtraneousClassSniff.php" role="php" />
-   <file md5sum="114351c5bf0a6317d8387708b3884740" name="PHPUnitStandard/Sniffs/Testing/FileNameSuffixSniff.php" role="php" />
-   <file md5sum="3127fcf6e3c1351dc0b7e8565f7a6f34" name="PHPUnitStandard/Sniffs/Testing/NoInterfacesSniff.php" role="php" />
-   <file md5sum="6830e21bfb840c9c6eb6753024ff33f5" name="PHPUnitStandard/Sniffs/Testing/NoPrivateMethodsSniff.php" role="php" />
-   <file md5sum="b8af632c30b6198625ec44f99e8bd046" name="PHPUnitStandard/Sniffs/Testing/ProvenTestCaseSniff.php" role="php" />
-   <file md5sum="da1bd6fa09dc22a8093e012af265c992" name="PHPUnitStandard/Sniffs/Testing/TestOrProviderFunctionsOnlySniff.php" role="php" />
-   <file md5sum="2b3ccac8e1b0c36f6dc74ec9cc992278" name="PHPUnitStandard/Sniffs/Testing/TestOrProviderIsPublicSniff.php" role="php" />
-   <file md5sum="46ff1ac574901ab60479f13c351e51a7" name="PHPUnitStandard/Sniffs/Testing/UnusedProviderSniff.php" role="php" />
-   <file md5sum="dc6caabdecc6c0aed7f3c5e0c3b6bab4" name="PHPUnitStandard/ruleset.xml" role="data" />
+  <dir baseinstalldir="PHP/CodeSniffer/Standards" name="/">
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="ef300d6c21803b99ae7a706b29580f0d" name="PHPUnitStandard/Sniffs/Testing/AllowedFunctionOverrideSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="6ddb379bfec6d6123c88d711f69ae9dd" name="PHPUnitStandard/Sniffs/Testing/ClassNameSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="df73f37dcee770516fcc55ef31cfb44b" name="PHPUnitStandard/Sniffs/Testing/ExtraneousClassSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="114351c5bf0a6317d8387708b3884740" name="PHPUnitStandard/Sniffs/Testing/FileNameSuffixSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="3127fcf6e3c1351dc0b7e8565f7a6f34" name="PHPUnitStandard/Sniffs/Testing/NoInterfacesSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="6830e21bfb840c9c6eb6753024ff33f5" name="PHPUnitStandard/Sniffs/Testing/NoPrivateMethodsSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="b8af632c30b6198625ec44f99e8bd046" name="PHPUnitStandard/Sniffs/Testing/ProvenTestCaseSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="da1bd6fa09dc22a8093e012af265c992" name="PHPUnitStandard/Sniffs/Testing/TestOrProviderFunctionsOnlySniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="2b3ccac8e1b0c36f6dc74ec9cc992278" name="PHPUnitStandard/Sniffs/Testing/TestOrProviderIsPublicSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="46ff1ac574901ab60479f13c351e51a7" name="PHPUnitStandard/Sniffs/Testing/UnusedProviderSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="dc6caabdecc6c0aed7f3c5e0c3b6bab4" name="PHPUnitStandard/ruleset.xml" role="data" />
   </dir>
  </contents>
  <dependencies>
@@ -49,7 +49,7 @@
    </pearinstaller>
    <package>
     <name>PHP_CodeSniffer</name>
-    <channel>pear.php.net</channel>
+    <channel>pear</channel>
     <min>1.3.0</min>
    </package>
   </required>
