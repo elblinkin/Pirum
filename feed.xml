@@ -7,13 +7,13 @@
     </author>
 
     <entry>
-        <title>PHPUnit_CodeSniffer 0.1.0 (beta)</title>
-        <link href="http://pear.elblinkin.info/get/PHPUnit_CodeSniffer-0.1.0.tgz" />
-        <id>PHPUnit_CodeSniffer-0.1.0</id>
+        <title>PHPUnitStandard 0.1.1 (beta)</title>
+        <link href="http://pear.elblinkin.info/get/PHPUnitStandard-0.1.1.tgz" />
+        <id>PHPUnitStandard-0.1.1</id>
         <author>
             <name>elblinkin</name>
         </author>
-        <updated>2011-10-13T14:39:33-04:00</updated>
+        <updated>2011-10-13T14:51:31-04:00</updated>
         <content>
             PHP CodeSniffer Standard for PHPUnit tests.
         </content>

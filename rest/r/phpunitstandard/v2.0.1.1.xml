@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
-    <p xlink:href="/rest/p/phpunit_codesniffer">PHPUnit_CodeSniffer</p>
+    <p xlink:href="/rest/p/phpunitstandard">PHPUnitStandard</p>
     <c>pear.elblinkin.info</c>
-    <v>0.1.0</v>
-    <a>0.1.0</a>
-    <mp>5.2.9</mp>
+    <v>0.1.1</v>
+    <a>0.1.1</a>
+    <mp>5.2.17</mp>
     <st>beta</st>
     <l>MIT</l>
     <m>elblinkin</m>
     <s>PHP CodeSniffer Standard for PHPUnit tests.</s>
     <d>PHP CodeSniffer Standard for PHPUnit tests.</d>
-    <da>2011-10-13 14:39:33</da>
+    <da>2011-10-13 14:51:31</da>
     <n>
 -
  </n>
-    <f>3372</f>
-    <g>http://pear.elblinkin.info/get/PHPUnit_CodeSniffer-0.1.0</g>
-    <x xlink:href="package.0.1.0.xml"/>
+    <f>3371</f>
+    <g>http://pear.elblinkin.info/get/PHPUnitStandard-0.1.1</g>
+    <x xlink:href="package.0.1.1.xml"/>
 </r>
