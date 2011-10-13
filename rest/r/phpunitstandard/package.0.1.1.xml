@@ -11,7 +11,7 @@
   <active>yes</active>
  </lead>
  <date>2011-10-13</date>
- <time>15:55:38</time>
+ <time>16:10:01</time>
  <version>
   <release>0.1.1</release>
   <api>0.1.1</api>
@@ -36,7 +36,7 @@
    <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="da1bd6fa09dc22a8093e012af265c992" name="PHPUnitStandard/Sniffs/Testing/TestOrProviderFunctionsOnlySniff.php" role="php" />
    <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="2b3ccac8e1b0c36f6dc74ec9cc992278" name="PHPUnitStandard/Sniffs/Testing/TestOrProviderIsPublicSniff.php" role="php" />
    <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="46ff1ac574901ab60479f13c351e51a7" name="PHPUnitStandard/Sniffs/Testing/UnusedProviderSniff.php" role="php" />
-   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="dc6caabdecc6c0aed7f3c5e0c3b6bab4" name="PHPUnitStandard/ruleset.xml" role="data" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="dc6caabdecc6c0aed7f3c5e0c3b6bab4" name="PHPUnitStandard/ruleset.xml" role="php" />
   </dir>
  </contents>
  <dependencies>
