@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0     http://pear.php.net/dtd/tasks-1.0.xsd     http://pear.php.net/dtd/package-2.0     http://pear.php.net/dtd/package-2.0.xsd">
+ <name>PHPUnitStandard</name>
+ <channel>pear.elblinkin.info</channel>
+ <summary>PHP CodeSniffer Standard for PHPUnit tests.</summary>
+ <description>PHP CodeSniffer Standard for PHPUnit tests.</description>
+ <lead>
+  <name>Laura Beth Lincoln Denker</name>
+  <user>elblinkin</user>
+  <email>github@elblinkin.info</email>
+  <active>yes</active>
+ </lead>
+ <date>2011-10-13</date>
+ <time>16:36:56</time>
+ <version>
+  <release>0.1.2</release>
+  <api>0.1.2</api>
+ </version>
+ <stability>
+  <release>beta</release>
+  <api>beta</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/mit-license.php">MIT</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir baseinstalldir="PHP/CodeSniffer/Standards" name="/">
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="ef300d6c21803b99ae7a706b29580f0d" name="PHPUnitStandard/Sniffs/Testing/AllowedFunctionOverrideSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="cdc82710716045023ffc08312e363670" name="PHPUnitStandard/Sniffs/Testing/ClassNameSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="fa7a9a6bd8ee3f9e4f31fbd974890c51" name="PHPUnitStandard/Sniffs/Testing/ExtraneousClassSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="114351c5bf0a6317d8387708b3884740" name="PHPUnitStandard/Sniffs/Testing/FileNameSuffixSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="3127fcf6e3c1351dc0b7e8565f7a6f34" name="PHPUnitStandard/Sniffs/Testing/NoInterfacesSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="6830e21bfb840c9c6eb6753024ff33f5" name="PHPUnitStandard/Sniffs/Testing/NoPrivateMethodsSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="b654fb8e9f4d553e495d8c59df3051a3" name="PHPUnitStandard/Sniffs/Testing/ProvenTestCaseSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="8bddff576a21299633d6fc27e5c4e1ac" name="PHPUnitStandard/Sniffs/Testing/TestOrProviderFunctionsOnlySniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="3d36829f0f8aed429d29138323ea4477" name="PHPUnitStandard/Sniffs/Testing/TestOrProviderIsPublicSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="45cbb57f923fe185ef5af3ad8c24b79c" name="PHPUnitStandard/Sniffs/Testing/UnusedProviderSniff.php" role="php" />
+   <file baseinstalldir="PHP/CodeSniffer/Standards" md5sum="dc6caabdecc6c0aed7f3c5e0c3b6bab4" name="PHPUnitStandard/ruleset.xml" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.2.17</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.1</min>
+   </pearinstaller>
+   <package>
+    <name>PHP_CodeSniffer</name>
+    <channel>pear</channel>
+    <min>1.3.0</min>
+   </package>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>
